@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 10px;
+  width: 20vw;
+  height: 25vh;
+  margin: 10px;
+}
+
+.imge-size {
+  height: 10vh;
+  width: 10vw;
+}
+
+.description {
+  font-family: Bree Serif;
+  color: #7b8794;
+  font-weight: bold;
+  font-size: 30pxs;
+}
